@@ -1,2 +1,2 @@
 # miniRT
-42project_miniRT
+42project__miniRT
